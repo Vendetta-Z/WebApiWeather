@@ -1,0 +1,10 @@
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\obj\Debug\WebApiFrameWork.csprojAssemblyReference.cache
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\obj\Debug\WebApiFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\bin\Debug\WebApiFrameWork.exe.config
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\bin\Debug\WebApiFrameWork.exe
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\bin\Debug\WebApiFrameWork.pdb
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\obj\Debug\WebApiFrameWork.csproj.CopyComplete
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\obj\Debug\WebApiFrameWork.exe
+C:\Users\VendeTTa\source\repos\WebApiFrameWork\obj\Debug\WebApiFrameWork.pdb
